@@ -4,7 +4,7 @@
 
 # 26.GreedySnake
 
-<p>V：bishebao888888(sql文件)</p>
+<p>抠群: 983063232(sql文件)</p>
 <p>抠: 206157502(sql文件)</p>
 
 <p><h1 align="center">26.贪吃蛇</h1></p>
